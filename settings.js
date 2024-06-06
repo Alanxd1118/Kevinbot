@@ -3,14 +3,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = ['94714348255']
-global.ownername = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴛʜᴏᴍᴀꜱ'
+global.ownername = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴋᴇᴠɪɴ ᴄᴋ'
 global.ytname = " "
 global.socialm = " "
 global.location = "Indonesia, Jepang"
 
-global.ownernumber = ['94714348255']  //creator number
+global.ownernumber = ['94762533278']  //creator number
 global.ownername = '🎓ᴘᴏᴡᴇʀᴇᴅ ᵇʸ͟⇝ꪏ͢🎭[දා.ර්.ශ.නි.ක]🎓🗣️' //owner name
-global.botname = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴛʜᴏᴍᴀꜱ' //name of the bot
+global.botname = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴋᴇᴠɪɴ ᴄᴋ' //name of the bot
 
 //sticker details
 global.packname = ''
